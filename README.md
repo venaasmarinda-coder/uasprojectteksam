@@ -1,4 +1,5 @@
-# Estimasi tingkat penggunaan media sosial pada mahasiswa Program Studi Statistika Universitas Mataram menggunakan metode Two Stage Cluster Sampling.
+# ESTIMASI TINGKAT PENGGUNAAN MEDIA SOSIAL PADA MAHASISWA PROGRAM STUDI STATISTIKA UNIVERSITAS MATARAM MENGGUNAKAN METODE TWO STAGE CLUSTER SAMPLING.
+
 # Latar belakang
 Perkembangan teknologi informasi menjadikan media sosial sebagai bagian penting dalam kehidupan mahasiswa. Media sosial digunakan sebagai sarana komunikasi, hiburan, akses informasi, serta mendukung aktivitas akademik. Tingginya penggunaan media sosial dapat memberikan dampak positif maupun negatif terhadap aktivitas belajar mahasiswa.
 
